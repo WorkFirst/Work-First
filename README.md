@@ -22,7 +22,7 @@ Right into it:
 
 WorkFirst is the next evolution of a yield-generating contract on the Binance Smart Chain (BSC): you get rewarded in BNB instead of tokens. 
 
-The token contract employs a static rewards system—17% of every transaction is split in three:
+The token contract employs a static rewards system—15% of every transaction is split in three:
 
 •
 
@@ -32,9 +32,7 @@ The token contract employs a static rewards system—17% of every transaction is
 
 3% is used to fuel the liquidity pool exchange growth
 
-•
 
-2% is used for marketing, promo and airdrops
 
 
 
@@ -158,11 +156,9 @@ Decimals: 9
 
 •TOTAL SUPPLY : 1,000,000,000
 
-•TEAM / PARTNER Allocation: 10,000,000 (1%)
-
 •TOKENS FOR PRESALE : 500,000,000 (50%)
 
-•TOKENS FOR PANCAKE LISTING : 440,000,000 (44%)
+•TOKENS FOR PANCAKE LISTING : 440,000,000 (45%)
 
 •TOKENS FOR MARKETING WALLET: 50,000,000 (5%)
 
@@ -174,7 +170,7 @@ Decimals: 9
 
 •Presale Ends : 7/30 at 8PM (UTC) 
 
-•Pancakeswap Listing Rate :  440,000/BNB
+•Pancakeswap Listing Rate :  450,000/BNB
 
 •Liquidity Locked: 90% - Unlock Date : 12 months 
 
