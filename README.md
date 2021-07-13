@@ -156,21 +156,21 @@ Decimals: 9
 
 •TOTAL SUPPLY : 1,000,000,000
 
-•TOKENS FOR PRESALE : 430,000,000 (43%)
+•TOKENS FOR PRESALE : 500,000,000 (50%)
 
-•TOKENS FOR PANCAKE LISTING : 510,000,000 (51%)
+•TOKENS FOR PANCAKE LISTING : 440,000,000 (44%)
 
 •TOKENS FOR MARKETING WALLET: 50,000,000 (5%)
 
 •Hard Cap/Soft Cap : 1000BNB/500BNB
 
-•Presale Rate :  430,000/BNB
+•Presale Rate :  500,000/BNB
 
 •Min./Max. Contribution : 0.2BNB/10BNB
 
 •Presale Ends : 7/30 at 8PM (UTC) 
 
-•Pancakeswap Listing Rate :  387,000/BNB
+•Pancakeswap Listing Rate :  450,000/BNB
 
 •Liquidity Locked: 90% - Unlock Date : 12 months 
 
